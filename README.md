@@ -36,6 +36,8 @@ This application fetches **real-time weather data** from the OpenWeather API and
 
 ---
 
+## Live demo
+ https://kashavkoli0167-hue.github.io/Syntecxhub-Weather-App/
 ## 📸 Project Screenshot
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/474d694b-bc5f-42fd-8e0f-82fa7b634236" />
