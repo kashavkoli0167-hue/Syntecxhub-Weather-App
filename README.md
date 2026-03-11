@@ -38,4 +38,5 @@ This application fetches **real-time weather data** from the OpenWeather API and
 
 ## 📸 Project Screenshot
 
-Add your project screenshot here.
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/474d694b-bc5f-42fd-8e0f-82fa7b634236" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bd91c6d6-ed85-4962-9209-eccee64cbffc" />
